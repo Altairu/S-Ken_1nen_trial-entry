@@ -13,7 +13,7 @@ marp: true
 
 ---
 ## 今日の目標　
-4つのボタンを使ってLEDを点灯、明るさの調整、消灯を行う
+3つのボタンを使ってLEDを点灯、明るさの調整、消灯を行う
 ![picture 1](images/542421bd1426aabfd2d2302165510ea65aa4889a4b8febbfcb5dc7995a1bd58d.png)  
 
 ---
