@@ -269,8 +269,5 @@ void loop() {
 ---
 
 ## 書き込んでみよう
-![picture 2](images/41807b6c3c7e2f33caa56f04bcc84e590c6f4a0256e7a5244e3f89ae3b66b610.png)  
-
----
-![picture 3](images/16b5c68393c8551ba1ceb4a9f9aa2b21325ec81ca69eeefeb0c43ea050068f61.png)  
+！【写真2】(images/16b5c68393c8551ba1ceb4a9f9aa2b21325ec81ca69eeefeb0c43ea050068f61.png)  
 
